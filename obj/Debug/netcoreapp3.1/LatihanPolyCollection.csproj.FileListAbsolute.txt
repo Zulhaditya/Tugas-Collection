@@ -1,0 +1,13 @@
+E:\PEMROGRAMAN\LatihanPolyCollection\bin\Debug\netcoreapp3.1\LatihanPolyCollection.exe
+E:\PEMROGRAMAN\LatihanPolyCollection\bin\Debug\netcoreapp3.1\LatihanPolyCollection.deps.json
+E:\PEMROGRAMAN\LatihanPolyCollection\bin\Debug\netcoreapp3.1\LatihanPolyCollection.runtimeconfig.json
+E:\PEMROGRAMAN\LatihanPolyCollection\bin\Debug\netcoreapp3.1\LatihanPolyCollection.runtimeconfig.dev.json
+E:\PEMROGRAMAN\LatihanPolyCollection\bin\Debug\netcoreapp3.1\LatihanPolyCollection.dll
+E:\PEMROGRAMAN\LatihanPolyCollection\bin\Debug\netcoreapp3.1\LatihanPolyCollection.pdb
+E:\PEMROGRAMAN\LatihanPolyCollection\obj\Debug\netcoreapp3.1\LatihanPolyCollection.csprojAssemblyReference.cache
+E:\PEMROGRAMAN\LatihanPolyCollection\obj\Debug\netcoreapp3.1\LatihanPolyCollection.csproj.CoreCompileInputs.cache
+E:\PEMROGRAMAN\LatihanPolyCollection\obj\Debug\netcoreapp3.1\LatihanPolyCollection.AssemblyInfoInputs.cache
+E:\PEMROGRAMAN\LatihanPolyCollection\obj\Debug\netcoreapp3.1\LatihanPolyCollection.AssemblyInfo.cs
+E:\PEMROGRAMAN\LatihanPolyCollection\obj\Debug\netcoreapp3.1\LatihanPolyCollection.dll
+E:\PEMROGRAMAN\LatihanPolyCollection\obj\Debug\netcoreapp3.1\LatihanPolyCollection.pdb
+E:\PEMROGRAMAN\LatihanPolyCollection\obj\Debug\netcoreapp3.1\LatihanPolyCollection.genruntimeconfig.cache
